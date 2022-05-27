@@ -1,11 +1,16 @@
 _repo: Old-Indian-trails_68074
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: McClintock, Walter
     gutenberg_agent_id: '54588'
     url: http://www.gutenberg.org/2009/agents/54588
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68074#Old-Indian-trails
 gutenberg_issued: '2022-05-14'
 identifiers:
   gutenberg: '68074'
